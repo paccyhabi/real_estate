@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost","root","","real_estates");
+$conn = mysqli_connect("b2mhaw2n2fq0cwnun5ll-mysql.services.clever-cloud.com","utsrxqoplbif9h27","W4yuokKQWfz1tNmvjUKO","b2mhaw2n2fq0cwnun5ll");
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
